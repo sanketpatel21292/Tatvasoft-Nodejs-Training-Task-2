@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/joi": "^14.3.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "joi": "^14.3.1",
     "pg": "^8.2.1",
     "pg-hstore": "^2.3.3",
